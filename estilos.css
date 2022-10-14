@@ -136,10 +136,7 @@ main .Contenedor-caratula{
     display: flex;
     justify-content: space-between;
 }
-.contenedor-sys1{
-    display: flex;
-    justify-content: space-between;
-}
+
 
 .imagen-mujer1{
     width: 75%;
@@ -247,12 +244,6 @@ main .Contenedor-caratula{
         width: 90%;
     }
     .contedor-sy{
-        width: 90%;
-    }
-    .contenedo-texto-val{
-        width: 90%;
-    }
-    .contenedor-sys1{
         width: 90%;
     }
 }
