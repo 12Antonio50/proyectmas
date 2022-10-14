@@ -252,6 +252,9 @@ main .Contenedor-caratula{
     .contenedo-texto-val{
         width: 90%;
     }
+    .contenedor-sys1{
+        width: 90%;
+    }
 }
 @media screen and (max-width:500px) {
     .txt-header h1{
