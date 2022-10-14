@@ -237,6 +237,9 @@ main .Contenedor-caratula{
     .imagen-mujer1{
         width: 90%;
     }
+    .contedor-sy{
+        width: 90%;
+    }
 }
 @media screen and (max-width:500px) {
     .txt-header h1{
@@ -248,6 +251,7 @@ main .Contenedor-caratula{
     .Ficha-te .contenido-txt{
         width: 95%;
     }
+  
 
     
 }
