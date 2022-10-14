@@ -257,5 +257,8 @@ main .Contenedor-caratula{
     .Ficha-te .contenido-txt{
         width: 95%;
     }
+    .contenedor-synp .contenedo-texto-val{
+        width: 95%;
+    }
   
 }
