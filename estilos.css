@@ -136,6 +136,10 @@ main .Contenedor-caratula{
     display: flex;
     justify-content: space-between;
 }
+.contenedor-sys1{
+    display: flex;
+    justify-content: space-between;
+}
 
 .imagen-mujer1{
     width: 75%;
