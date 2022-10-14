@@ -150,6 +150,11 @@ main .Contenedor-caratula{
 
 }
 
+.contenedo-texto-val{
+    display: flex;
+    justify-content: space-between;
+}
+
 .contenido-txt h3 span{
     background: #3010ae;
     color: #fff;
